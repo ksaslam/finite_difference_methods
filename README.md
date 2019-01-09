@@ -1,5 +1,4 @@
-# finite_difference_methods
-
+# Finite_difference_methods
 # --------------------------------------------------------
 # This codes solves the differential equation
 #    (d^2)u/dx^2 + du/dx = 0
